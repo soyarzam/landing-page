@@ -87,8 +87,8 @@ ul {
 }
 
 .gang {
-  width: 100px;
-  height: 100px;
+  width: 165px;
+  height: 140px;
 }
 
 .container {
@@ -97,6 +97,7 @@ ul {
   gap: 52px;
   flex-wrap: wrap;
   padding: 32px;
+  margin-bottom: 120px;
 }
 
 .testimonial{
@@ -123,7 +124,7 @@ ul {
 
 .space {
   background-color: #3882f6;
-  margin: 100px;
+  margin: 50px;
   border-radius: 10px;
   padding: 20px;
   padding-left: 100px;
@@ -139,6 +140,7 @@ ul {
 
 .product {
   color: #e5e7eb;
+  margin-bottom: 20px
 }
 .signupp{
   background-color: #3882f6;
@@ -146,7 +148,7 @@ ul {
   font-size: 26px;
   border-radius: 10px;
   border-color: white;
-  margin-left: 500px;
+  margin-left: 800px;
 }
 
 .amongus{

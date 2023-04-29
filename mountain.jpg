@@ -1,0 +1,663 @@
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#">
+<head><meta charset="utf-8">
+<script src="https://cdn-au.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="52f0ce5e-0c2d-48a6-8e40-e978c5058a96"></script>
+<script>
+            function OptanonWrapper() { }
+        </script>
+
+<script>
+        window.RECAPTCHA_SITE_KEY = "6Lf8Bg4UAAAAAJ9KPbr_AoCbQ5l9jDqcuaLAgBDM";
+        window.RECAPTCHA_V3_SITE_KEY = "6LeyhLIaAAAAAI8XfF3RoG62z0L0RLUrgGVb1p_z";
+        function onRecaptchaReady() {
+            if (document) {
+                document.dispatchEvent(new CustomEvent('px:recaptcha-ready'));
+            }
+        }
+    </script>
+<script src="https://www.recaptcha.net/recaptcha/api.js?render=6LeyhLIaAAAAAI8XfF3RoG62z0L0RLUrgGVb1p_z&onload=onRecaptchaReady" async defer></script>
+
+<script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({"qForAds":"photo:en:mt fuji volcano","tags":"mt fuji, volcano, silhouettes, clouds, mountains, landscape, japan, tourist attraction, places of interest, famous","searchQuery":"","locale":"en","country":"us","hasDescription":"0","canvaBannerVariant":null});
+    </script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=EzJCsJwDfVlqG8d1K6KKOg&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5CF9ZN');</script>
+
+<script type='text/javascript'>
+    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+    p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.15.0/sp.js','snowplow'));
+    window.snowplow('newTracker', 'sp', 'webhooks.fivetran.com/snowplow/5965a13a\u002D0208\u002D4b09\u002D9f16\u002D449198306fea', {
+        appId: 'vanilla',
+        post: true
+    });
+    window.snowplow('setUserIdFromCookie', 'user_id');
+    </script>
+<script>
+        window.i18n = Object.assign({}, window.i18n, {
+            photo: 'photo',
+            video: 'video',
+            audio: 'audio',
+            animation: 'gif',
+            UserFollowedNotification: 'followed you ',
+
+            PhotoLikedNotification: 'liked your photo',
+            VideoLikedNotification: 'liked your video',
+            AudioLikedNotification: 'liked your audio',
+            
+            AnimationLikedNotification: 'liked your gif',
+
+            PhotoCommentedNotification: 'commented on your photo',
+            VideoCommentedNotification: 'commented on your video',
+            AudioCommentedNotification: 'commented on your audio',
+            AnimationCommentedNotification: 'commented on your gif',
+
+            NoNotifications: 'No notifications to show',
+            viewMore: 'View more notifications',
+            others: 'others ',
+            other: 'other ',
+            
+            CinemagraphsProcessedNotification: 'Your cinemagraph is ready to view!',
+            
+            CommunityRejectionNotification: 'Sorry, this image will not be featured',
+            
+            CommunityRejectionNotificationTitle1: 'Technical or general issues',
+            
+            CommunityRejectionNotificationDesc1: 'Focus, noise, blur or colour',
+            
+            CommunityRejectionNotificationTitle2: 'Bad composition or quality',
+            
+            CommunityRejectionNotificationDesc2: 'Distractions, perspective or horizon',
+            
+            CommunityRejectionNotificationTitle3: 'Lack of subject interest',
+            
+            CommunityRejectionNotificationDesc3: 'Purpose, originality or clear theme',
+        });
+        window.GETTY_AD_CLASS = 'JSJibnDE5p6E';
+        window.imageQualityGuidelinesPosts = ({'de': '/de/blog/posts/id-34/', 'en': '/blog/posts/id-22/', 'ru': '/ru/blog/posts/id-85/'});
+        window.SNOWPLOW_CUSTOM_FIELDS_SCHEMA = 'https://snowplow\u002Diglu.pixabay.com/schemas/com.pixabay/custom_fields/jsonschema/2\u002D0\u002D0';
+    </script>
+<link rel="canonical" href="https://pixabay.com/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">
+<link rel="alternate" hreflang="cs" href="https://pixabay.com/cs/photos/mt-fuji-sopka-siluety-mraky-hory-2232246/"><link rel="alternate" hreflang="da" href="https://pixabay.com/da/photos/mt-fuji-vulkan-silhuetter-skyer-2232246/"><link rel="alternate" hreflang="de" href="https://pixabay.com/de/photos/berg-fuji-vulkan-silhouetten-wolken-2232246/"><link rel="alternate" hreflang="en" href="https://pixabay.com/photos/mt-fuji-volcano-silhouettes-clouds-2232246/"><link rel="alternate" hreflang="es" href="https://pixabay.com/es/photos/monte-fuji-volc%c3%a1n-siluetas-nubes-2232246/"><link rel="alternate" hreflang="fr" href="https://pixabay.com/fr/photos/mont-fuji-volcan-silhouette-2232246/"><link rel="alternate" hreflang="id" href="https://pixabay.com/id/photos/gunung-fuji-gunung-berapi-siluet-2232246/"><link rel="alternate" hreflang="it" href="https://pixabay.com/it/photos/monte-fuji-vulcano-sagome-nuvole-2232246/"><link rel="alternate" hreflang="hu" href="https://pixabay.com/hu/photos/fuji-hegy-vulk%c3%a1n-sziluettek-felh%c5%91k-2232246/"><link rel="alternate" hreflang="nl" href="https://pixabay.com/nl/photos/mount-fuji-vulkaan-silhouetten-2232246/"><link rel="alternate" hreflang="no" href="https://pixabay.com/no/photos/mt-fuji-vulkan-silhuetter-skyer-2232246/"><link rel="alternate" hreflang="pl" href="https://pixabay.com/pl/photos/g%c3%b3ra-fuji-wulkan-sylwetki-chmury-2232246/"><link rel="alternate" hreflang="pt" href="https://pixabay.com/pt/photos/mt-fuji-vulc%c3%a3o-silhuetas-nuvens-2232246/"><link rel="alternate" hreflang="ro" href="https://pixabay.com/ro/photos/muntele-fuji-vulcan-siluete-nori-2232246/"><link rel="alternate" hreflang="sk" href="https://pixabay.com/sk/photos/mt-fuji-sopka-siluety-mraky-hory-2232246/"><link rel="alternate" hreflang="fi" href="https://pixabay.com/fi/photos/mt-fuji-tulivuori-siluetteja-pilvet-2232246/"><link rel="alternate" hreflang="sv" href="https://pixabay.com/sv/photos/mt-fuji-vulkan-silhuetter-moln-2232246/"><link rel="alternate" hreflang="tr" href="https://pixabay.com/tr/photos/mt-fuji-volkan-siluetler-bulutlar-2232246/"><link rel="alternate" hreflang="vi" href="https://pixabay.com/vi/photos/mt-fuji-n%c3%bai-l%e1%bb%ada-b%c3%b3ng-nh%e1%bb%afng-%c4%91%c3%a1m-m%c3%a2y-2232246/"><link rel="alternate" hreflang="th" href="https://pixabay.com/th/photos/%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b8%b9%e0%b8%88%e0%b8%b4-%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%84%e0%b8%9f-%e0%b9%80%e0%b8%87%e0%b8%b2-%e0%b9%80%e0%b8%a1%e0%b8%86-%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2-2232246/"><link rel="alternate" hreflang="bg" href="https://pixabay.com/bg/photos/mt-fuji-%d0%b2%d1%83%d0%bb%d0%ba%d0%b0%d0%bd-%d1%81%d0%b8%d0%bb%d1%83%d0%b5%d1%82%d0%b8-%d0%be%d0%b1%d0%bb%d0%b0%d1%86%d0%b8-2232246/"><link rel="alternate" hreflang="ru" href="https://pixabay.com/ru/photos/%d0%b3%d0%be%d1%80%d0%b0-%d0%b2%d1%83%d0%bb%d0%ba%d0%b0%d0%bd-%d1%81%d0%b8%d0%bb%d1%83%d1%8d%d1%82%d1%8b-%d0%be%d0%b1%d0%bb%d0%b0%d0%ba%d0%b0-%d0%b3%d0%be%d1%80%d1%8b-2232246/"><link rel="alternate" hreflang="el" href="https://pixabay.com/el/photos/mt-fuji-%ce%b7%cf%86%ce%b1%ce%af%cf%83%cf%84%ce%b5%ce%b9%ce%bf-%cf%83%ce%b9%ce%bb%ce%bf%cf%85%ce%ad%cf%84%ce%b5%cf%82-%cf%83%cf%8d%ce%bd%ce%bd%ce%b5%cf%86%ce%b1-2232246/"><link rel="alternate" hreflang="ja" href="https://pixabay.com/ja/photos/%e5%af%8c%e5%a3%ab%e5%b1%b1-%e7%81%ab%e5%b1%b1-%e3%82%b7%e3%83%ab%e3%82%a8%e3%83%83%e3%83%88-%e9%9b%b2-2232246/"><link rel="alternate" hreflang="ko" href="https://pixabay.com/ko/photos/%ed%9b%84%ec%a7%80%ec%82%b0-%ed%99%94%ec%82%b0-%ec%8b%a4%eb%a3%a8%ec%97%a3-%ea%b5%ac%eb%a6%84-2232246/"><link rel="alternate" hreflang="zh" href="https://pixabay.com/zh/photos/mt-fuji-volcano-silhouettes-clouds-2232246/"><link rel="alternate" hreflang="x-default" href="https://pixabay.com/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#02be6e">
+<meta name="theme-color" content="#4ea64e">
+<link rel="search" type="application/opensearchdescription+xml" title="Pixabay" href="https://pixabay.com/static/misc/opensearch.xml">
+<meta name="google-site-verification" content="HhI1AC5Q4nvvEU1FQvb0QvGrPADs351JXl4IRVGSnnk" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/static/css/min/base.d6900337.min.css?f">
+
+<link rel="preload" href="/static/fonts/open_sans/opensans-400-latin21.woff2" as="font" crossorigin="anonymous" />
+
+<link rel="preload" href="/static/fonts/open_sans/opensans-700-latin35.woff2" as="font" crossorigin="anonymous" />
+<link rel="preload" href="/static/js/min/base.5208d1fc.min.js?f" as="script" crossorigin="anonymous" />
+<!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><![endif]-->
+<title>Mt Fuji Volcano Silhouettes - Free photo on Pixabay</title>
+<meta name="description" content="Download this free photo of Mt Fuji Volcano Silhouettes from Pixabay&#39;s vast library of royalty-free stock images, videos and music.">
+<meta property="og:image" content="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Free Image on Pixabay - Mt Fuji, Volcano, Silhouettes">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:site" content="@pixabay">
+<meta name="twitter:title" content="Free Image on Pixabay - Mt Fuji, Volcano, Silhouettes">
+<meta name="twitter:image" content="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg">
+<meta name="twitter:image:width" content="640">
+<meta name="twitter:image:height" content="426">
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+</head>
+<body class=" " data-tgc="yes">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CF9ZN&gtm_auth=EzJCsJwDfVlqG8d1K6KKOg&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="wrapper">
+<div id="header">
+<div id="header_inner">
+<div class="pure-menu pure-menu-horizontal pure-menu-open">
+<ul><li class="pure-dropdown hide-xs hide-sm hide-md pure-menu-list-item"><a>Explore <i class="dropdown_arrow hide-xs"></i></a><ul id="clone_to_mobile_menu" class="pure-menu-children"><li><div class="columns-menu"><div id="mobile_menu_top" class="hide-sm hide-md hide-lg hide-xl"><a class="show-entry-point-modal" data-w="442" rel="nofollow" href="/accounts/login/?source=main_nav&amp;modal&amp;next=/photos/mt-fuji-volcano-silhouettes-clouds-2232246/" class="ua-login-main-nav">
+Log in
+</a><a class="show-entry-point-modal" data-w="442" style="border-left:1px solid #eee" rel="nofollow" href="/accounts/register/?source=main_nav&amp;next=/photos/mt-fuji-volcano-silhouettes-clouds-2232246/&amp;modal">Join</a></div><div><b>Media</b><a href="/photos/">Photos</a><a href="/illustrations/">Illustrations</a><a href="/vectors/">Vectors</a><a href="/videos/">Videos</a><a href="/music/">Music</a><a href="/sound-effects/">Sound Effects</a><a href="/gifs/">GIFs</a><hr><a href="/editors_choice/">Editor's Choice</a><a href="/collections/">Curated Collections</a><a href="/images/search/">Popular Images</a><a href="/videos/search/">Popular Videos</a><a href="/music/search/">Popular Music</a><a href="/popular-searches/">Popular Searches</a></div><div><b>Community</b><a href="/blog/">Blog</a><a href="/forum/">Forum</a><a href="/users/">Artists</a><a href="/cameras/">Cameras</a></div><div><div class="last-column"><div><b>About</b><a href="/service/faq/">FAQ</a><a href="/service/terms/">Terms</a><a href="/service/privacy/">Privacy</a><a href="/service/about/">About Us</a><a href="/service/cookies/">Cookie Policy</a><a href="/service/about/api/">API</a><a class="dd_box menu language_menu"><i class="icon icon_language"></i> Language</a><div><a onmousedown="setCookie('lang', 'cs', 3650);" href="https://pixabay.com/cs/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Čeština</a><a onmousedown="setCookie('lang', 'da', 3650);" href="https://pixabay.com/da/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Dansk</a><a onmousedown="setCookie('lang', 'de', 3650);" href="https://pixabay.com/de/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Deutsch</a><a onmousedown="setCookie('lang', 'en', 3650);" href="https://pixabay.com/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">English</a><a onmousedown="setCookie('lang', 'es', 3650);" href="https://pixabay.com/es/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Español</a><a onmousedown="setCookie('lang', 'fr', 3650);" href="https://pixabay.com/fr/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Français</a><a onmousedown="setCookie('lang', 'id', 3650);" href="https://pixabay.com/id/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Indonesia</a><a onmousedown="setCookie('lang', 'it', 3650);" href="https://pixabay.com/it/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Italiano</a><a onmousedown="setCookie('lang', 'hu', 3650);" href="https://pixabay.com/hu/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Magyar</a><a onmousedown="setCookie('lang', 'nl', 3650);" href="https://pixabay.com/nl/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Nederlands</a><a onmousedown="setCookie('lang', 'no', 3650);" href="https://pixabay.com/no/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Norsk</a><a onmousedown="setCookie('lang', 'pl', 3650);" href="https://pixabay.com/pl/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Polski</a><a onmousedown="setCookie('lang', 'pt', 3650);" href="https://pixabay.com/pt/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Português</a><a onmousedown="setCookie('lang', 'ro', 3650);" href="https://pixabay.com/ro/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Română</a><a onmousedown="setCookie('lang', 'sk', 3650);" href="https://pixabay.com/sk/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Slovenčina</a><a onmousedown="setCookie('lang', 'fi', 3650);" href="https://pixabay.com/fi/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Suomi</a><a onmousedown="setCookie('lang', 'sv', 3650);" href="https://pixabay.com/sv/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Svenska</a><a onmousedown="setCookie('lang', 'tr', 3650);" href="https://pixabay.com/tr/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Türkçe</a><a onmousedown="setCookie('lang', 'vi', 3650);" href="https://pixabay.com/vi/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Việt</a><a onmousedown="setCookie('lang', 'th', 3650);" href="https://pixabay.com/th/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">ไทย</a><a onmousedown="setCookie('lang', 'bg', 3650);" href="https://pixabay.com/bg/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Български</a><a onmousedown="setCookie('lang', 'ru', 3650);" href="https://pixabay.com/ru/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Русский</a><a onmousedown="setCookie('lang', 'el', 3650);" href="https://pixabay.com/el/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Ελληνική</a><a onmousedown="setCookie('lang', 'ja', 3650);" href="https://pixabay.com/ja/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">日本語</a><a onmousedown="setCookie('lang', 'ko', 3650);" href="https://pixabay.com/ko/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">한국어</a><a onmousedown="setCookie('lang', 'zh', 3650);" href="https://pixabay.com/zh/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">简体中文</a></div></div><div><hr><div class="menu-social-icons"><div><div><a href="https://www.facebook.com/pixabay" target="_blank"><i class="icon icon_facebook_fff"></i></a></div><div><a href="https://www.instagram.com/pixabay/" target="_blank"><i class="icon icon_instagram_fff"></i></a></div><div><a href="https://twitter.com/pixabay" target="_blank"><i class="icon icon_twitter_fff"></i></a></div></div></div></div></div></div></div></li></ul></li><li class="hide-xs"><a class="ua-login-main-nav show-entry-point-modal " data-w="442" rel="nofollow" href="/accounts/login/?source=main_nav&amp;modal&amp;next=/photos/mt-fuji-volcano-silhouettes-clouds-2232246/">Log in</a></li><li class="hide-xs"><a class="show-entry-point-modal" data-w="442" style="border-left:1px solid #eee" rel="nofollow" href="/accounts/register/?source=main_nav&amp;next=/photos/mt-fuji-volcano-silhouettes-clouds-2232246/&amp;modal">Join</a></li><li class="hide-xs hide-sm"><a rel="nofollow" href="/accounts/register/?source=main_nav&amp;modal" class="pure-button button-green show-entry-point-modal ua-upload-button" data-w="442"><i class="icon icon_upload "></i> Upload</a></li><li class="pure-dropdown hide-lg hide-xl pure-menu-list-item"><a><i class="icon icon_mobile_menu"></i></a><ul id="mobile_menu" class="pure-menu-children"></ul></li></ul>
+</div>
+<a id="logo" href="/"></a>
+<i class="toggle_mobile_search icon icon_menu_loupe"></i>
+<div id="media_type_menu" class="hide-xs hide-sm hide-md hide-lg">
+<a href="/photos/" class="selected">Photos</a>
+<a href="/illustrations/">Illustrations</a>
+<a href="/vectors/">Vectors</a>
+<a href="/videos/">Videos</a>
+<a href="/music/">Music</a>
+<a href="/sound-effects/">Sound Effects</a>
+<a href="/gifs/">GIFs</a>
+</div>
+<div id="mobile_search_background">
+<span class="pure-button button-md" style="float:right;margin:11px 14px 0 0;border-radius:2px!important;padding:9px 12px 9px;color:#7a7e98">✖</span>
+</div>
+<div class='media_search_container'>
+<form class="media_search header_search" action="/photos/search/" method="get"><div><div class="dd_box menu" data-left="1"><span class="image_type" style="margin-right:2px">Photos</span><i class="dropdown_arrow"></i></div><div class="pure-form bubble sw"><div class="select_image_type"><span data-type="image">Images</span><span data-type="photo" style="padding-left:30px">Photos</span><span data-type="vector" style="padding-left:30px">Vector graphics</span><span data-type="illustration" style="padding-left:30px">Illustrations</span><span data-type="video">Videos</span><span data-type="music">Music</span><span data-type="sound-effects">Sound Effects</span><span data-type="gif">GIFs</span><span data-type="user">Users</span></div><hr><a href=" /blog/posts/id-46/" target="_blank"> Search options →</a></div><input type="hidden" name="manual_search" value="1"><input type="submit" value=" " class="loupe"><span><input class="q" type="text" name="q" value="" placeholder="Search" data-autofocus></span><div style="position:absolute;left:-9999px"><input type="text" name="hp" autocomplete="off" tabindex="-1" value=""><input type="hidden" name="order" value=""><input type="hidden" name="cat" value=""><input type="checkbox" name="orientation" value="horizontal"><input type="checkbox" name="orientation" value="vertical"><input type="hidden" name="min_width" value=""><input type="hidden" name="min_height" value=""><input type="checkbox" name="colors" value="transparent"><input type="checkbox" name="colors" value="grayscale"><input type="checkbox" name="colors" value="red"><input type="checkbox" name="colors" value="orange"><input type="checkbox" name="colors" value="yellow"><input type="checkbox" name="colors" value="green"><input type="checkbox" name="colors" value="turquoise"><input type="checkbox" name="colors" value="blue"><input type="checkbox" name="colors" value="lilac"><input type="checkbox" name="colors" value="pink"><input type="checkbox" name="colors" value="white"><input type="checkbox" name="colors" value="gray"><input type="checkbox" name="colors" value="black"><input type="checkbox" name="colors" value="brown"><input type="checkbox" name="animation" value="1"><input type="checkbox" name="slow_motion" value="1"><input type="checkbox" name="time_lapse" value="1"><input type="checkbox" name="resolution_4k" value="1"><input type="checkbox" name="resolution_hd" value="1"></div></div></form>
+</div>
+</div></div>
+<div id="content" class="clearfix">
+<div id="google_one_tap_container">
+<div id="g_id_onload" data-client_id="575185734362.apps.googleusercontent.com" data-login_uri="accounts/auth/google/?state=register%7Cgoogle_one_tap%7C/photos/mt-fuji-volcano-silhouettes-clouds-2232246/%3A1psY9l%3ATEsjeTt37AOQGacLqZmJJ39mPotQTVI91dz237_kwVs" data-auto_select="true" data-prompt_parent_id="google_one_tap_container">
+</div>
+</div>
+<div id="media_show" class="photo">
+<div id="media_show" class="photo media-show">
+<div class="left"><div class="inside">
+<div class="download_menu mobile_menu" data-type="images">
+<span class="pure-button button-green download-menu-trigger ua-download-open-menu " style="display:block;max-width:310px;margin:10px 0 0"><i class="icon icon_download"></i> Free Download</span>
+<div class="bubble" style="padding:15px">
+<table>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_640.jpg"> 640×426</td><td>JPG</td><td>56 kB</td></tr>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_1280.jpg" data-perm="check"> 1280×853</td><td>JPG</td><td>186 kB</td></tr>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_1920.jpg" data-perm="check"> 1920×1279</td><td>JPG</td><td>395 kB</td></tr>
+<tr class="no_default"><td><input type="radio" name="download" value="mt-fuji-2232246.jpg" data-perm="auth"> 2012×1341</td><td>JPG</td><td>414 kB</td></tr>
+</table>
+<a target="_blank" class="view_btn pure-button button-md ua-view-button" data-w="332" style="display:inline-block;width:49%;float:right">View</a>
+<a class="dl_btn pure-button button-green button-md ua-download-button" data-w="332" style="display:inline-block;width:49%;">Download</a>
+<div class="canva-retouch">
+<div class="canva-background"></div>
+<span class="retouch-stars-dark"><img src="/static/img/canva-retouch-stars.svg" height="43" width="43" /></span>
+<a href="https://canva.com/content-partner/?utm_medium=partner&utm_source=pixabay&utm_campaign=retouch_in_canva_edit_image&image-url=https%3A//pixabay.com/get/g8fe76765d7fe7a8c8bb7c5331ec01bce2cabdc0bdc9a8871d51534a7cd2250a7b94cadb2b0df937eecccd7a58e795295_1920.jpg&external-id=2232246&canva-media-id=MADQ5AD1rXk" class="canva-retouch-link ua-canva-retouch" target="_blank">
+<span class="canva-retouch-button">
+<img src="/static/img/canva-icon.svg" width="24" height="24" alt="Canva" />
+<span>Edit image</span>
+</span>
+<span class="retouch-stars-bright"><img src="/static/img/canva-retouch-stars.svg" height="43" width="43" /></span>
+</a>
+</div>
+</div>
+</div>
+<div style="text-align:center">
+<div id="media_container" class="init">
+<picture>
+<source src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg" srcset="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg" media="(max-width: 360px)" />
+<source srcset="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg 1x, https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_1280.jpg 2x" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg" media="(max-width: 640px)" />
+<img srcset="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_960_720.jpg 1x, https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_1280.jpg 2x" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_960_720.jpg" alt="Free Mt Fuji Volcano photo and picture" width="960" height="639.8409542743556" style="height: auto" title="Download free HD stock image of Mt Fuji Volcano" />
+</picture>
+<div id="say_thanks_overlay"><em class="close-attribution-overlay">×</em>
+<div style="color:#fff" class="ua-attribution-overlay">
+<p class="attribution-title" style="font-size:;">Say thanks to the image author</p>
+<p class="attribution-buttons">
+</p>
+<p class="crediting-copy" style="">Crediting isn’t required, but linking back is greatly appreciated and allows image authors to gain exposure. You can use the following text:</p>
+<span class="attribution_field ">
+<span>Image by <a href="https://pixabay.com/users/kanenori-4749850/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2232246">Kanenori</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2232246">Pixabay</a></span>
+<input class="copy_to_clipboard copy-attribution-text ua-copy-attribution pure-button" type="button" value="Copy">
+</span>
+</div>
+</div>
+<h1 class='image-category'>
+<span data-href="/service/report/photo/2232246/" data-w="550" class="modal" title="Report"><i class="icon icon_flag"></i></span>
+<a title="Editor's Choice" href="/editors_choice/" class="award"><i class="icon icon_ec"></i></a>
+<a href="/images/search/mt%20fuji/">mt fuji</a> <a href="/images/search/volcano/">volcano</a> <a href="/images/search/silhouettes/">silhouettes</a> <a href="/images/search/clouds/">clouds</a> <a href="/images/search/mountains/">mountains</a>
+</h1>
+</div>
+</div>
+</div></div>
+<div class="right">
+<div style="margin:0 0 20px">
+<div class="clearfix">
+<a href="/users/kanenori-4749850/"><img class="hover_opacity" height="48" width="48" style="float:left;width:48px;height:48px;border-radius:48px;margin:0 12px 0 0" alt="Kanenori" srcset="https://cdn.pixabay.com/user/2023/03/30/07-49-26-304_48x48.jpg 1x, https://cdn.pixabay.com/user/2023/03/30/07-49-26-304_96x96.jpg 2x" src="https://cdn.pixabay.com/user/2023/03/30/07-49-26-304_48x48.jpg"></a>
+<a style="display:block;font-size:15px;margin:-3px 0 -8px 60px;color:#555" class="hover_opacity" href="/users/kanenori-4749850/">
+Kanenori / 785 images
+</a>
+<br>
+<span id="follow_button" class="ua-engagement-follow pure-button button-sm  show-entry-point-modal" data-w="442" data-href="/accounts/follow/4749850/"><i class="check">✓</i> Follow</span>
+</div>
+</div>
+<div class="like_buttons">
+<span data-href="/accounts/register/?source=comment_image&next=/images/id-2232246/&modal" class="ua-engagement-like like_button pure-button pure-button-primary button-sm show-entry-point-modal" data-w="442" title="Like"><i class="pixicon-heart heart-like-icon"></i><b>743</b></span>
+<span title="Add to collection" data-href="/accounts/register/?next=/images/id-2232246/&source=collect_photo&modal" class="ua-engagement-collect pure-button pure-button-primary button-sm show-entry-point-modal" data-w="442"><i id="collect_photo_2232246" class="icon icon_bookmark"></i></span>
+<span data-href="/go/?t=share&amp;type=photo&amp;id=2232246" class="share_button ua-engagement-share pure-button button-sm dd_box ajax" data-target=".share_links" title="Share"><i class="icon icon_share"></i></span>
+<div class="share_links" style="width:216px;padding:15px"></div>
+</div>
+<div class="download_menu large_menu" data-type="images">
+<span class="pure-button button-green download-menu-trigger ua-download-open-menu " style="display:block;max-width:310px;margin:10px 0 0"><i class="icon icon_download"></i> Free Download</span>
+<div class="bubble" style="padding:15px">
+<table>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_640.jpg"> 640×426</td><td>JPG</td><td>56 kB</td></tr>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_1280.jpg" data-perm="check"> 1280×853</td><td>JPG</td><td>186 kB</td></tr>
+<tr><td><input type="radio" name="download" value="mt-fuji-2232246_1920.jpg" data-perm="check"> 1920×1279</td><td>JPG</td><td>395 kB</td></tr>
+<tr class="no_default"><td><input type="radio" name="download" value="mt-fuji-2232246.jpg" data-perm="auth"> 2012×1341</td><td>JPG</td><td>414 kB</td></tr>
+</table>
+<a target="_blank" class="view_btn pure-button button-md ua-view-button" data-w="332" style="display:inline-block;width:49%;float:right">View</a>
+<a class="dl_btn pure-button button-green button-md ua-download-button" data-w="332" style="display:inline-block;width:49%;">Download</a>
+<div class="canva-retouch">
+<div class="canva-background"></div>
+<span class="retouch-stars-dark"><img src="/static/img/canva-retouch-stars.svg" height="43" width="43" /></span>
+<a href="https://canva.com/content-partner/?utm_medium=partner&utm_source=pixabay&utm_campaign=retouch_in_canva_edit_image&image-url=https%3A//pixabay.com/get/g8fe76765d7fe7a8c8bb7c5331ec01bce2cabdc0bdc9a8871d51534a7cd2250a7b94cadb2b0df937eecccd7a58e795295_1920.jpg&external-id=2232246&canva-media-id=MADQ5AD1rXk" class="canva-retouch-link ua-canva-retouch" target="_blank">
+<span class="canva-retouch-button">
+<img src="/static/img/canva-icon.svg" width="24" height="24" alt="Canva" />
+<span>Edit image</span>
+</span>
+<span class="retouch-stars-bright"><img src="/static/img/canva-retouch-stars.svg" height="43" width="43" /></span>
+</a>
+</div>
+</div>
+</div>
+<div style="margin:20px 0 10px;padding:15px 20px;background:#f6f5fa;line-height:1.5">
+<a href="/service/terms/" style="color:#636363;text-decoration:underline">Content License</a>
+<div style="margin-top:4px;font-size:14px">
+Free to use under the Content License
+<br>No attribution required
+</div>
+</div>
+<div id="fb_like_widget" class="hide-xs hide-sm" style="margin:20px 0;padding:10px 15px;background:#f6f5fa;font-size:14px">
+<p style="margin:0 0 5px">Like Pixabay on Facebook</p>
+<div class="fb-like" data-href="https://www.facebook.com/pixabay" data-layout="button_count" data-share="true" data-show-faces="false"></div>
+</div>
+<p style="margin:15px 0 5px;font-size:13px;padding:5px 15px;background:#f6f5fa;border-bottom: 1px solid #eeeff2">Related Images</p>
+<div class="flex_grid sidebar_thumbs" style="margin:-4px -6px 15px -5px">
+<div class="item" data-w="640" data-h="426"><a href="/photos/hawaii-volcano-hot-fire-night-142138/">
+<img alt="Free Hawaii Volcano photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Hawaii Volcano" data-src="https://cdn.pixabay.com/photo/2013/06/29/18/55/hawaii-142138__180.jpg">
+<em>Hawaii, Volcano, Hot, Fire, Night</em>
+</a></div>
+<div class="item" data-w="640" data-h="423"><a href="/photos/mountain-volcano-peak-summit-477832/">
+<img alt="Free Mountain Volcano photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Mountain Volcano" data-src="https://cdn.pixabay.com/photo/2014/10/07/13/48/mountain-477832__180.jpg">
+<em>Mountain, Volcano, Peak, Summit</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/mount-fuji-volcano-clouds-sunrise-1352353/">
+<img alt="Free Mount Fuji Volcano photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Mount Fuji Volcano" data-src="https://cdn.pixabay.com/photo/2016/04/25/16/46/mount-fuji-1352353__180.jpg">
+<em>Mount Fuji, Volcano, Clouds, Sunrise</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/volcanic-eruption-ash-cloud-dramatic-1867439/">
+<img alt="Free Volcanic Eruption Ash Cloud photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Volcanic Eruption Ash Cloud" data-src="https://cdn.pixabay.com/photo/2016/11/29/05/01/volcanic-eruption-1867439__180.jpg">
+<em>Volcanic Eruption, Ash Cloud, Dramatic</em>
+</a></div>
+<div class="item" data-w="640" data-h="489"><a href="/photos/ashes-volcano-eruption-1867440/">
+<img alt="Free Ashes Volcano photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Ashes Volcano" data-src="https://cdn.pixabay.com/photo/2016/11/29/05/02/ashes-1867440__180.jpg">
+<em>Ashes, Volcano, Eruption</em>
+</a></div>
+<div class="item" data-w="640" data-h="428"><a href="/photos/volcano-mountain-landscape-landscape-1905556/">
+<img alt="Free Volcano Mountain Landscape photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Volcano Mountain Landscape" data-src="https://cdn.pixabay.com/photo/2016/12/14/03/42/volcano-1905556__180.jpg">
+<em>Volcano, Mountain Landscape, Landscape</em>
+</a></div>
+<div class="item" data-w="640" data-h="425"><a href="/photos/volcano-hawaii-lava-cloud-ash-2262295/">
+<img alt="Free Volcano Hawaii photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Volcano Hawaii" data-src="https://cdn.pixabay.com/photo/2017/04/26/10/40/volcano-2262295__180.jpg">
+<em>Volcano, Hawaii, Lava, Cloud, Ash, Water</em>
+</a></div>
+<div class="item" data-w="640" data-h="427"><a href="/photos/mount-fuji-japan-volcano-mountain-2297961/">
+<img alt="Free Mount Fuji Japan photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Mount Fuji Japan" data-src="https://cdn.pixabay.com/photo/2017/05/09/10/59/mount-fuji-2297961__180.jpg">
+<em>Mount Fuji, Japan, Volcano, Mountain</em>
+</a></div>
+<div class="item" data-w="640" data-h="418"><a href="/photos/new-zealand-volcano-crater-3018634/">
+<img alt="Free New Zealand Volcano photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of New Zealand Volcano" data-src="https://cdn.pixabay.com/photo/2017/12/14/09/41/new-zealand-3018634__180.jpg">
+<em>New Zealand, Volcano, Crater</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/volcano-natural-cloud-landscape-3779159/">
+<img alt="Free Volcano Natural photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Volcano Natural" data-src="https://cdn.pixabay.com/photo/2018/10/28/16/11/volcano-3779159__180.jpg">
+<em>Volcano, Natural, Cloud, Landscape</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/japan-mountain-lake-mount-fuji-sky-4287832/">
+<img alt="Free Japan Mountain photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Japan Mountain" data-src="https://cdn.pixabay.com/photo/2019/06/20/19/03/japan-4287832__180.jpg">
+<em>Japan, Mountain, Lake, Mount Fuji, Sky</em>
+</a></div>
+<div class="item" data-w="640" data-h="426"><a href="/photos/sunrise-water-dawn-morning-country-4987384/">
+<img alt="Free Sunrise Water photo and picture" src="/static/img/blank.gif" title="Download free HD stock image of Sunrise Water" data-src="https://cdn.pixabay.com/photo/2020/03/31/11/59/sunrise-4987384__180.jpg">
+<em>Sunrise, Water, Dawn, Morning, Country</em>
+</a></div>
+
+</div>
+<div style="padding:15px 20px;background:#f6f5fa;border-bottom:1px solid #eeeff2;line-height:1.7;white-space:nowrap;overflow:hidden">
+<a href="/cameras/nikon-d800e-1397/" style="display:block;overflow:hidden;text-overflow:ellipsis">
+<img src="/static/img/camera_dummy.svg" style="height:15px;margin-right:3px;position:relative;top:1px" alt='Camera'>
+Nikon D800e
+</a>
+<div style="font-size:13px;overflow:hidden;text-overflow:ellipsis;color:#636363">
+<br />
+85.0mm
+· ƒ/11.0
+· 1/250s
+· ISO 100
+</div>
+</div>
+<div style="padding:15px 20px;background:#f6f5fa">
+<table id="details">
+<tr>
+<th style="white-space:nowrap">Image type</th>
+<td>
+JPG
+</td>
+</tr>
+<tr>
+<th>Resolution</th>
+<td>2012×1341</td></tr>
+<tr>
+<th>Published</th>
+<td>April 18, 2017</td>
+</tr>
+<tr><th>Views</th><td>247760</td></tr>
+<tr><th>Downloads</th><td>168655</td></tr>
+</table>
+</div>
+</div>
+<div class="left"><div class="inside" style="margin-top:15px">
+<div class="canva-template-ads-v2 ua-canva-template-ads-v2 hide-xs hide-sm hide-md">
+<div class="copy-container">
+<div class="heading">
+Use this photo to create a free design on
+<img class="canva-logo-text" src="/static/img/canva-template-previews/canva-logo-text.png">
+</div>
+</div>
+<div class="template-type-switcher-container">
+<a class="template-type selected ua-canva-template-ad-category" data-category-url="/images/canva-template-frames/top-5/">
+<span class="recommended-icon pixicon-retouch"></span> Top 5
+</a>
+<a class="template-type ua-canva-template-ad-category" data-category-url="/images/canva-template-frames/social-media/">
+Social Media
+</a>
+<a class="template-type ua-canva-template-ad-category" data-category-url="/images/canva-template-frames/presentations/">
+Presentations
+</a>
+<a class="template-type ua-canva-template-ad-category" data-category-url="/images/canva-template-frames/marketing/">
+Marketing
+</a>
+<a class="template-type ua-canva-template-ad-category" data-category-url="/images/canva-template-frames/prints/">
+Prints
+</a>
+</div>
+<div class="scrolling-container">
+<div class="canva-template-ad-item">
+<a class="thumbnail-container ua-canva-template-ad-link-v2" target="_blank">
+<div class="template-mount">
+<img class="framed-image" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246__340.jpg">
+</div>
+<img class="template-frame">
+</a>
+<span class="template-doctype"></span>
+</div>
+<div class="canva-template-ad-item">
+<a class="thumbnail-container ua-canva-template-ad-link-v2" target="_blank">
+<div class="template-mount">
+<img class="framed-image" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246__340.jpg">
+</div>
+<img class="template-frame">
+</a>
+<span class="template-doctype"></span>
+</div>
+<div class="canva-template-ad-item">
+<a class="thumbnail-container ua-canva-template-ad-link-v2" target="_blank">
+<div class="template-mount">
+<img class="framed-image" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246__340.jpg">
+</div>
+<img class="template-frame">
+</a>
+<span class="template-doctype"></span>
+</div>
+<div class="canva-template-ad-item">
+<a class="thumbnail-container ua-canva-template-ad-link-v2" target="_blank">
+<div class="template-mount">
+<img class="framed-image" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246__340.jpg">
+</div>
+<img class="template-frame">
+</a>
+<span class="template-doctype"></span>
+</div>
+<div class="canva-template-ad-item">
+<a class="thumbnail-container ua-canva-template-ad-link-v2" target="_blank">
+<div class="template-mount">
+<img class="framed-image" src="https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246__340.jpg">
+</div>
+<img class="template-frame">
+</a>
+<span class="template-doctype"></span>
+</div>
+<div class="loading"><div class="px-loading">
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+<div>
+<img src="/static/img/logomark.svg" alt="Pixabay logo" />
+</div>
+</div></div>
+</div>
+</div>
+<div class="comments-section" id="comments-section">
+<a class="comments-count pure-button button-sm pure-button-primary show-entry-point-modal" data-w="442" rel="nofollow" href='/accounts/register/?next=/images/id-2232246/&source=comment_image&modal'>91 comments</a>
+<span class="comments-signin">
+<a class="show-entry-point-modal" data-w="442" rel="nofollow" href="/accounts/register/?next=/images/id-2232246/&source=comment_image&modal">Sign in</a> to leave a comment.
+</span>
+</div>
+<p class="tags">
+<a href="/images/search/mt%20fuji/">mt fuji</a><i>, </i><a href="/images/search/volcano/">volcano</a><i>, </i><a href="/images/search/silhouettes/">silhouettes</a><i>, </i><a href="/images/search/clouds/">clouds</a><i>, </i><a href="/images/search/mountains/">mountains</a><i>, </i><a href="/images/search/landscape/">landscape</a><i>, </i><a href="/images/search/japan/">japan</a><i>, </i><a href="/images/search/tourist%20attraction/">tourist attraction</a><i>, </i><a href="/images/search/places%20of%20interest/">places of interest</a><i>, </i><a href="/images/search/famous/">famous</a><i>, </i>
+<span class="noselect">
+<a href="/photos/">Photos</a><i>, </i>
+</span>
+</p>
+</div></div>
+</div>
+</div>
+</div>
+<div id="fb-root"></div><a id="toTop">▲</a>
+<script>
+    var DEBUG = 0, LANG = 'en', LANG_URL_PREFIX = '', LANGS = [["cs","\u010ce\u0161tina"],["da","Dansk"],["de","Deutsch"],["en","English"],["es","Espa\u00f1ol"],["fr","Fran\u00e7ais"],["id","Indonesia"],["it","Italiano"],["hu","Magyar"],["nl","Nederlands"],["no","Norsk"],["pl","Polski"],["pt","Portugu\u00eas"],["ro","Rom\u00e2n\u0103"],["sk","Sloven\u010dina"],["fi","Suomi"],["sv","Svenska"],["tr","T\u00fcrk\u00e7e"],["vi","Vi\u1ec7t"],["th","\u0e44\u0e17\u0e22"],["bg","\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"],["ru","\u0420\u0443\u0441\u0441\u043a\u0438\u0439"],["el","\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae"],["ja","\u65e5\u672c\u8a9e"],["ko","\ud55c\uad6d\uc5b4"],["zh","\u7b80\u4f53\u4e2d\u6587"]], I18N = { 'delete': 'Really delete?', 'safesearch': 'SafeSearch', 'adult_content': 'Adult Content', 'reassess': 'Submit media for reassessment?', 'reviewTooltip': 'This is being reviewed \u002D please allow a few days for us to complete the process.', 'underReassessment': 'Under Reassessment' };
+    window.is_mobile = 0;
+    window.useCFSuggestion = 0;
+</script>
+<script src="/static/js/min/base.5208d1fc.min.js?f"></script>
+<script defer integrity="sha384-/LwbeItYhfLT59ofJHOoDoqx/BcDDi5FbIUbqo0oDuz5lpo/5QKILtG1f2XTduw4" src="https://unpkg.com/web-vitals@3.0.4"></script>
+<script>
+    const sentMetrics = [];
+    function sendVital(metric) {
+        if (sentMetrics.includes(metric.name)) return;
+        sentMetrics.push(metric.name);
+
+        const data = {
+            name: metric.name,
+            value: metric.value,
+            signature: 'webvitals:1psY9l:styf0bmXc2dHLuV3hN-sKbf11r4_0ktTJaNj_JUxdSk',
+            referer_path: window.location.href,
+            platform: 'templates'
+        };
+
+        if (navigator.sendBeacon) {
+            navigator.sendBeacon('/collect/web-vitals/', JSON.stringify(data));
+        } else {
+            $.post('/collect/web-vitals/', data);
+        }
+    }
+
+    if (Math.random() * 100 <= 1.0) {
+        addEventListener('DOMContentLoaded', function() {
+            webVitals.getCLS(sendVital);
+            webVitals.getFID(sendVital);
+            webVitals.getLCP(sendVital);
+            webVitals.getFCP(sendVital);
+            webVitals.getTTFB(sendVital);
+            webVitals.getINP(sendVital);
+        });
+    }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "license": "http://creativecommons.org/licenses/publicdomain/",
+            "acquireLicensePage": ".",
+            "name": "Mt Fuji Volcano Silhouettes \u002D Free photo on Pixabay",
+            "uploadDate": "2017-04-15T09:53:55+00:00",
+            "datePublished": "2017-04-18T12:01:04+00:00",
+            "contentUrl": "https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_1280.jpg",
+            "description": "Download this free photo of Mt Fuji Volcano Silhouettes from Pixabay\u0027s vast library of royalty\u002Dfree stock images, videos and music.",
+            "caption": "Mt Fuji Volcano Silhouettes \u002D Free photo on Pixabay",
+            "representativeOfPage": true,
+            "interactionStatistic": {
+                "@type": "InteractionCounter",
+                "interactionType": "https://schema.org/ViewAction",
+                "userInteractionCount": 247760
+            },
+            "width": 1280,
+            "height": 852,
+            "isAccessibleForFree": true,
+            "author": {
+                "@type": "Person",
+                "name": "Kanenori"
+            },
+            "thumbnail": {
+                "@type": "ImageObject",
+                "url": "https://cdn.pixabay.com/photo/2017/04/15/11/51/mt-fuji-2232246_640.jpg"
+            },
+            "isFamilyFriendly": true,
+            "creditText": "Image by Kanenori",
+            "creator": {
+                "@type": "Person",
+                "name": "Kanenori"
+            },
+            "copyrightNotice": "Kanenori"
+        }
+    </script>
+<script>
+        var show_captcha=1, auth_user=0;
+        
+            if ($(window).innerWidth() > 767) document.write('<script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=114593902037957" async defer><\/script>');
+            else $('#fb_like_widget').hide();
+        
+
+        if (!window.PX) window.PX = {};
+
+        window.PX.media_type = 'photo';
+        window.PX.media_id = 2232246;
+    </script>
+<script>
+        $(document).ready(function() {
+            
+                $('.dl_btn').click(function() {
+                    if (window.localStorage) {
+                        const resolution = $('tr.selected td').eq(0).text();
+                        window.localStorage.setItem('resolution', resolution);
+                    }
+                });
+            
+            if ('URLSearchParams' in window) {
+                let searchParams = new URLSearchParams(window.location.search)
+                if (searchParams.has('download') && window.localStorage) {
+                    const resolution = window.localStorage.getItem('resolution');
+                    if (resolution === null) return
+                    $(`tr:contains(${resolution})`).click();
+                    $('.dl_btn')[0].click();
+                    loadAttributionOverlay();
+                }
+            }
+        });
+    </script>
+<script>
+            async function loadTemplateFrames(url) {
+                const template_elems = $('.canva-template-ad-item');
+                template_elems.css({opacity: 0.2});
+                $('.loading').show();
+
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'X-CSRFToken': getCookie('csrftoken', ''),
+                        'Accept': 'application/json'
+                    },
+                    body: new URLSearchParams({
+                        canva_id: 'MADQ5AD1rXk',
+                        width: '2012',
+                        height: '1341',
+                        keywords: 'mt fuji, volcano, silhouettes, clouds, mountains, landscape, japan, tourist attraction, places of interest, famous',
+                    }),
+                });
+                const new_templates = await response.json();
+
+                let frames_loaded = 0;
+                const onFrameLoaded = () => {
+                    frames_loaded++;
+                    if (frames_loaded == 5) {
+                        template_elems.css({opacity: 1});
+                        $('.loading').hide();
+                    }
+                };
+
+                for(let i = 0; i < 5; i++) {
+                    const new_template = new_templates[i];
+                    const template_elem = template_elems.eq(i);
+                    // replace link href
+                    template_elem.find('.thumbnail-container').attr('href', new_template.designUrl);
+                    // replace mount parameters
+                    template_elem.find('.template-mount').css({
+                        top: `${new_template.mountTop/new_template.thumbnailHeight * 100}%`,
+                        left: `${new_template.mountLeft/new_template.thumbnailWidth * 100}%`,
+                        height: `${new_template.mountHeight/new_template.thumbnailHeight * 100}%`,
+                        width: `${new_template.mountWidth/new_template.thumbnailWidth * 100}%`
+                    });
+                    // replace template image
+                    template_elem.find('.template-frame').off('load');
+                    template_elem.find('.template-frame').attr('src', new_template.thumbnailUrl);
+                    template_elem.find('.template-frame').on('load', onFrameLoaded);
+                    // replace doctype
+                    template_elem.find('.template-doctype').text(new_template.doctypeName);
+                }
+            }
+
+            $('.template-type').click(e => {
+                e.preventDefault();
+                e.stopPropagation();
+
+                const elem = $(e.currentTarget);
+                if (elem.hasClass('selected'))
+                    return;
+
+                $('.template-type').removeClass('selected');
+                elem.addClass('selected');
+
+                const url = elem.data('category-url');
+                loadTemplateFrames(url);
+            });
+
+            $(document).ready(function() {
+                const url = "/images/canva-template-frames/top-5/";
+                loadTemplateFrames(url);
+            });
+        </script>
+<script>
+            function initRecaptcha() {
+                const widget_id = grecaptcha.render('comment_submit_btn', {
+                    'sitekey': '6Lf8Bg4UAAAAAJ9KPbr_AoCbQ5l9jDqcuaLAgBDM',
+                    'callback': (recaptcha_token) => {
+                        $('#comment_form').submit();
+                        grecaptcha.reset(widget_id);
+                    }
+                });
+            };
+
+            $(document).ready(() => {
+                if ($('#comments_recaptcha_src').length === 0) 
+                    $('body').append('<script id="comments_recaptcha_src" src="https://www.recaptcha.net/recaptcha/api.js?onload=initRecaptcha&render=explicit">');
+                else
+                    initRecaptcha();
+            });
+        </script>
+<div class="recaptcha-footer">
+This site is protected by reCAPTCHA and the Google
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and
+<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</div>
+</body>
+</html>
